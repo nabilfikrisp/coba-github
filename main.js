@@ -6,3 +6,7 @@ function pengurangan(num1, num2) {
   // test
   return num1 - num2;
 }
+
+function perkalian(num1, num2) {
+  return num1 * num2;
+}
