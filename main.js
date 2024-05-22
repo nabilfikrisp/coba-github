@@ -7,6 +7,10 @@ function pengurangan(num1, num2) {
   return num1 - num2;
 }
 
+function perkalian(num1, num2) {
+  return num1 * num2;
+}
+
 function pembagian(num1, num2) {
   return num1 / num2;
 }
